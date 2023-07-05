@@ -4,3 +4,4 @@ cd folder name
 cd status
 add the file to local repo git add .
 git commit am "sample file added'
+git push
